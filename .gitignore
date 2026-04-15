@@ -1,0 +1,19 @@
+# system noise
+.*
+!.gitignore
+
+# python
+__pycache__/
+*.pyc
+
+# outputs
+outputs/
+experiments/
+forensics/
+
+# caches
+.cache/
+.npm/
+.cargo/
+.local/
+
